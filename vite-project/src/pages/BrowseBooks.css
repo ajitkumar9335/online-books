@@ -1,0 +1,19 @@
+.browse {
+  padding: 20px;
+}
+.book-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.book-card {
+  border: 1px solid #ccc;
+  padding: 15px;
+  width: 180px;
+  border-radius: 8px;
+}
+input {
+  margin-bottom: 20px;
+  padding: 8px;
+  width: 50%;
+}
